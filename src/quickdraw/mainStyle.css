@@ -1,0 +1,20 @@
+.holder {
+    -fx-background-color: #717171,white;
+    -fx-background-insets: 0, 25;
+    -fx-padding: 25;
+}
+
+.background{
+    -fx-background-color: #7f7f7f;
+
+}
+
+.toolbar{
+    -fx-background-color: #999999;
+}
+
+
+.menubar{
+    -fx-background-color: #333333;
+}
+
